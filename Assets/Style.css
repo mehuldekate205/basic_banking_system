@@ -1,0 +1,25 @@
+
+.social-icons li{
+    list-style: none;
+    display: inline;
+    padding: 0.5rem;
+}
+
+.github{
+    color: #0080ff;
+}
+
+.linkedin{
+    color: #0080ff;
+}
+
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.jumbotron{
+    padding-top: 280px;
+    padding-bottom: 280px;
+}
